@@ -1,4 +1,5 @@
-# Olá! eu sou o Lucca Almeida 🫡
+
+#Olá! eu sou o Lucca Almeida 🫡
 
 **`Desenvolvedor FullStack`**
 ---
@@ -8,20 +9,13 @@
 ---
 <p>
   <img 
-    align="left" 
+    align="" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Lucca81&show_icons=true&theme=tokyonight" 
   />
-<img 
-      align="" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucca81&theme=tokyonight&exclude_repo=github-readme-stats,anuraghazra.github.io" 
-/>
 
-</p>
 
 
 ## Tecnologias que uso no dia a dia
