@@ -1,5 +1,5 @@
 
-#Olá! eu sou o Lucca Almeida 🫡
+# Olá! eu sou o Lucca Almeida 🫡
 
 **`Desenvolvedor FullStack`**
 ---
