@@ -36,24 +36,24 @@ Este espaço é onde compartilho meu aprendizado, experiências e projetos que v
 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Java" 
+    title="Java"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Spring" 
+    title="Spring"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="MySQL" 
+    title="MySQL"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
@@ -68,24 +68,24 @@ Este espaço é onde compartilho meu aprendizado, experiências e projetos que v
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Linux" 
+    title="Linux"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="GitHub" 
+    title="GitHub"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Docker" 
+    title="Docker"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
