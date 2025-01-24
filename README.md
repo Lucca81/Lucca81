@@ -10,14 +10,14 @@ Este espaço é onde compartilho meu aprendizado, experiências e projetos que v
 
 **Sinta-se à vontade para explorar, contribuir ou apenas trocar ideias. Vamos evoluir juntos!** 🚀
 
-[![Linikedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucca-almeida-dev)
+
 <a href="https://github.com/Lucca81?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Lucca81?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
----
+
 
 ## 📊 Status
 <p>
@@ -52,11 +52,11 @@ Este espaço é onde compartilho meu aprendizado, experiências e projetos que v
 />
 <img 
     align="left" 
-    alt="MySQL" 
+    alt="PostgreSQL" 
     title="MySQL"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 <img 
     align="left" 
