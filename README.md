@@ -11,12 +11,23 @@ Este espaço é onde compartilho meu aprendizado, experiências e projetos que v
 **Sinta-se à vontade para explorar, contribuir ou apenas trocar ideias. Vamos evoluir juntos!** 🚀
 
 
+<a href="https://www.linkedin.com/in/luccanascimentodev/">
+        <img 
+            alt="Linkedin" 
+            title="Profile Linkedin" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+
 <a href="https://github.com/Lucca81?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Lucca81?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
+
+        
+
+        
 
 
 ## 📊 Status
