@@ -22,7 +22,7 @@ Este espaço é onde compartilho meu aprendizado, experiências e projetos que v
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Lucca81&show_icons=true&theme=merko" 
+    src="https://github-readme-stats.vercel.app/api?username=Lucca81&show_icons=true&theme=radical" 
   />
 
 
