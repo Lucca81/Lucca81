@@ -86,3 +86,6 @@ Este espaço é onde compartilho meu aprendizado, experiências e projetos que v
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
+<div align="center">
+<img src="https://raw.githubusercontent.com/Lucca81/Lucca81/output/snake.svg" alt="Snake animation" />
+</div>
