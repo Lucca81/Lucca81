@@ -29,17 +29,17 @@
 <div style="text-align: center;">
 <div style="display: inline-block; height: 100%;">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Lucca81&show_icons=true&theme=radical&locale=en&layout=compact" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Lucca81&show_icons=true&theme=cobalt&locale=en&layout=compact" />
 <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Lucca81&show_icons=true&locale=en&layout=compact" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucca81&show_icons=true&theme=radical&locale=en&layout=compact" alt="Lucca81" style="height: 200px;" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucca81&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="Lucca81" style="height: 200px;" />
 </picture>
 </div>
 
 <div style="display: inline-block; height: 100%;">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Lucca81&show_icons=true&theme=radical&locale=en" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Lucca81&show_icons=true&theme=cobalt&locale=en" />
 <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Lucca81&show_icons=true&locale=en" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucca81&show_icons=true&theme=radical&locale=en" alt="Lucca81" style="height: 200px;" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucca81&show_icons=true&theme=cobalt&locale=en" alt="Lucca81" style="height: 200px;" />
 </picture>
 </div>
 </div>
