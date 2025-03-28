@@ -1,5 +1,7 @@
 <h3 align="center">👨🏾‍💻Backend Developer</h3>
-<h1 align="center">👋 Olá! Seja bem-vindo ao meu GitHub!</h1> 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lucca+!;" />
+</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lucca81&label=Profile%20views&color=blueviolet&style=flat" alt="Lucca81" /> </p>
 
@@ -16,32 +18,12 @@
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-<tr>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-<br>Java
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-<br>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-<br>GitHub
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-<br>RestAPI
-</td>
-</tr>
-</table>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,html,css,github,git" />
+    <img src="https://skillicons.dev/icons?i=linux,postgresql,mysql,idea,vscode" /><br>
 </div>
+<br>
+
 
 
 <div style="text-align: center;">
