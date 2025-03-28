@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lucca+!;" />
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lucca81&label=Profile%20views&color=blueviolet&style=flat" alt="Lucca81" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lucca81&label=Profile%20views&color=0e75b6&style=flat" alt="Lucca81" /> </p>
 
 
 
