@@ -1,7 +1,7 @@
 <h3 align="center">👨🏾‍💻Backend Developer</h3>
 <h1 align="center">👋 Olá! Seja bem-vindo ao meu GitHub!</h1> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lucca81&label=Profile%20views&color=0e75b6&style=flat" alt="Lucca81" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lucca81&label=Profile%20views&color=blueviolet&style=flat" alt="Lucca81" /> </p>
 
 
 
