@@ -1,91 +1,68 @@
-# 🧑🏾‍💻 Lucca Nascimento
+<h3 align="center">👨🏾‍💻Backend Developer</h3>
+<h1 align="center">👋 Olá! Seja bem-vindo ao meu GitHub!</h1> 
 
-#### **`Desenvolvedor FullStack`**
----
-
-👋 **Olá! Seja bem-vindo ao meu GitHub!**
-
-**Meu nome é Lucca Nascimento sou desenvolvedor full-stack, apaixonado por tecnologia e por criar soluções funcionais e elegantes. Cada projeto aqui reflete meu compromisso com um desenvolvimento bem estruturado, desde o planejamento e design até a entrega de soluções práticas para desafios reais.
-Este espaço é onde compartilho meu aprendizado, experiências e projetos que venho desenvolvendo ao longo da minha jornada na programação.**
-
-**Sinta-se à vontade para explorar, contribuir ou apenas trocar ideias. Vamos evoluir juntos!** 🚀
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccanascimentodev/)
-[![DIO](https://img.shields.io/badge/DIO.me-000000?style=for-the-badge&logo=dio&logoColor=white)](https://www.dio.me/users/he1evem10)
----
-
-## 📊 Status
-<p>
-  <img 
-    align="center" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Lucca81&show_icons=true&theme=radical" 
-  />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lucca81&label=Profile%20views&color=0e75b6&style=flat" alt="Lucca81" /> </p>
 
 
 
-## 🧰 Linguagens e Ferramentas
+
+<h3 align="center">My name is Lucca Nascimento. I'm a back-end developer with a passion for technology and for creating functional and elegant solutions.
+</h3>
+
+<h2 align="center">Connect with me:</h2>
+<p align="center">
+<a href="https://instagram.com/lucca_alm_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucca_alm_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luccanascimentodev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luccanascimentodev" height="30" width="40" /></a>
+</p>
+
+<h2 align="center">Languages and Tools:</h2>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+<br>RestAPI
+</td>
+</tr>
+</table>
+</div>
 
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="MySQL"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
+<div style="text-align: center;">
+<div style="display: inline-block; height: 100%;">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Lucca81&show_icons=true&theme=radical&locale=en&layout=compact" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Lucca81&show_icons=true&locale=en&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucca81&show_icons=true&theme=radical&locale=en&layout=compact" alt="Lucca81" style="height: 200px;" />
+</picture>
+</div>
+
+<div style="display: inline-block; height: 100%;">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Lucca81&show_icons=true&theme=radical&locale=en" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Lucca81&show_icons=true&locale=en" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucca81&show_icons=true&theme=radical&locale=en" alt="Lucca81" style="height: 200px;" />
+</picture>
+</div>
+</div>
+
+<div style="text-align: center;">
 <div align="center">
 <img src="https://raw.githubusercontent.com/Lucca81/Lucca81/output/snake.svg" alt="Snake animation" />
 </div>
