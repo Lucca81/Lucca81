@@ -20,7 +20,7 @@
 <h2 align="center">Languages and Tools:</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,docker,html,css,github,git" />
-    <img src="https://skillicons.dev/icons?i=linux,postgresql,mysql,idea,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,postgresql,mysql,idea,vscode,eclipse" /><br>
 </div>
 <br>
 
