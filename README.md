@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Talk+to+me!+👋;+I'm+Lucca+!;" />
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lucca81&label=Profile%20views&color=0e75b6&style=flat" alt="Lucca81" /> </p>
+
 
 <h3 align="center">
  Sou um desenvolvedor back-end apaixonado por tecnologia e pela criação de soluções funcionais e elegantes.
