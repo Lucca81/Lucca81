@@ -1,14 +1,12 @@
-<h3 align="center">👨🏾‍💻Backend Developer</h3>
+<h3 align="center">👨🏾‍💻 Software Developer</h3>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Talk+to+me!+👋;+I'm+Lucca+!;" />
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lucca81&label=Profile%20views&color=0e75b6&style=flat" alt="Lucca81" /> </p>
 
-
-
-
-<h3 align="center">My name is Lucca Nascimento. I'm a back-end developer with a passion for technology and for creating functional and elegant solutions.
+<h3 align="center">
+ Sou um desenvolvedor back-end apaixonado por tecnologia e pela criação de soluções funcionais e elegantes.
 </h3>
 
 <h2 align="center">Connect with me:</h2>
@@ -19,12 +17,10 @@
 
 <h2 align="center">Languages and Tools:</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,html,css,github,git" />
-    <img src="https://skillicons.dev/icons?i=linux,postgresql,mysql,idea,vscode,eclipse" /><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,js,ts,react,tailwind" /><br><br>
+    <img src="https://skillicons.dev/icons?i=linux,postgresql,mysql,github,git,idea,vscode" /><br>
 </div>
 <br>
-
-
 
 <div style="text-align: center;">
 <div style="display: inline-block; height: 100%;">
@@ -47,4 +43,5 @@
 <div style="text-align: center;">
 <div align="center">
 <img src="https://raw.githubusercontent.com/Lucca81/Lucca81/output/snake.svg" alt="Snake animation" />
+</div>
 </div>
